@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55987" started-at="2021-07-03T14:36:29 IST" finished-at="2021-07-03T14:37:25 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55987" started-at="2021-07-03T14:36:29 IST" finished-at="2021-07-03T14:37:25 IST">
+      <class name="com.selenium.pageobject_test.MathCalculator_DataDriven">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.selenium.pageobject_test.MathCalculator_DataDriven@1af5db5]" name="beforeTest" is-config="true" duration-ms="15703" started-at="2021-07-03T14:36:29 IST" finished-at="2021-07-03T14:36:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.selenium.pageobject_test.MathCalculator_DataDriven@1af5db5]" name="f" duration-ms="12087" started-at="2021-07-03T14:36:44 IST" data-provider="dp" finished-at="2021-07-03T14:36:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.selenium.pageobject_test.MathCalculator_DataDriven@1af5db5]" name="f" duration-ms="11801" started-at="2021-07-03T14:36:57 IST" data-provider="dp" finished-at="2021-07-03T14:37:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.selenium.pageobject_test.MathCalculator_DataDriven@1af5db5]" name="f" duration-ms="7143" started-at="2021-07-03T14:37:08 IST" data-provider="dp" finished-at="2021-07-03T14:37:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.selenium.pageobject_test.MathCalculator_DataDriven@1af5db5]" name="f" duration-ms="6947" started-at="2021-07-03T14:37:16 IST" data-provider="dp" finished-at="2021-07-03T14:37:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.selenium.pageobject_test.MathCalculator_DataDriven@1af5db5]" name="afterTest" is-config="true" duration-ms="2154" started-at="2021-07-03T14:37:22 IST" finished-at="2021-07-03T14:37:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.selenium.pageobject_test.MathCalculator_DataDriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Smoke test"   verbose="2" parallel="tests" thread-count="10">
+  <test  name="TestMutualLogin">
+    <classes>
+    
+     <class name="com.selenium.testng.MutualLogin"/>
+    
+      
+    </classes>
+  </test> <!-- TestSuit -->
+  
+   <test  name="TestYouLogin">
+    <classes>
+    
+        <class name="com.selenium.testng.TestYouLogin"/>
+    </classes>
+  </test> <!-- TestSuit -->
+</suite> <!-- Suite -->
